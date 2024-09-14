@@ -250,7 +250,7 @@ def generate_wordlist(user_data):
 
 # Prompts to enter user information
 def interactive_input():
-    print("==== Korean Wordlist Generator ====")
+    print("==== ILSABI 일반 사용자 비밀번 프로파일러 ====")
     user_data = {}
 
     # Basic information

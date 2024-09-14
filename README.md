@@ -1,4 +1,4 @@
-# ILSABI (일반적인 사용자 비밀번호 프로파일러)
+# ILSABI (일반 사용자 비밀번호 프로파일러)
 
 ILSABI is based on CUPP (Common User Passwords Profiler). CUPP is a tool that helps find weak and easily guessed passwords, but it falls short when it comes to profiling common Korean passwords.
 
