@@ -206,7 +206,7 @@ def generate_wordlist(user_data):
 
     # Add prepend and append characters (optional)
     if user_data['prepend_append']:
-        prepend_append_chars = ['xx', '00', '123']  # You can extend this list
+        prepend_append_chars = ['xx', '00', '123']  
         for char in prepend_append_chars:
             for s in surname_variants:
                 wordlist.add(char + s + char)
